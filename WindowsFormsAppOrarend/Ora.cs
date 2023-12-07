@@ -22,7 +22,7 @@ namespace WindowsFormsAppOrarend
         }
         public override string ToString()
         {
-            return this.tantargy;
+            return $"{tantargy}";
         }
     }
 }

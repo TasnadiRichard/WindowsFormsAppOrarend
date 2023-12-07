@@ -24,6 +24,7 @@ namespace WindowsFormsAppOrarend
             formOrak = new FormOrak();
             formRegisztracio = new FormRegisztracio();
             formTanarbelepes = new FormTanarbelepes();
+            Application.Run(formOrak);
         }
        
     }

@@ -78,6 +78,7 @@
             this.button_regisztracio.TabIndex = 4;
             this.button_regisztracio.Text = "Regisztráció";
             this.button_regisztracio.UseVisualStyleBackColor = true;
+            this.button_regisztracio.Click += new System.EventHandler(this.button_regisztracio_Click);
             // 
             // FormRegisztracio
             // 
